@@ -1,0 +1,12 @@
+.jumbotron {
+  background-color: #002259;
+}
+
+.jumbotron h2 {
+  background-color: transparent;
+}
+
+.jumbotron img {
+  height: 100px;
+  margin-bottom: 10px;
+}
